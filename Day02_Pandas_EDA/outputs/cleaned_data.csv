@@ -1,0 +1,11 @@
+Order_ID,Customer,Category,Product,Price,Quantity,Discount,Total,Final_Price
+1001,Amit,Electronics,Mouse,500,2,5,1000,950.0
+1002,Riya,Electronics,Keyboard,1200,1,10,1200,1080.0
+1003,Jay,Fashion,T-Shirt,800,3,15,2400,2040.0
+1004,Neha,Fashion,Jeans,1800,2,5,3600,3420.0
+1005,Rahul,Home,Chair,3500,1,8,3500,3220.0
+1006,Priya,Books,Python Book,950,2,20,1900,1520.0
+1007,Vivek,Electronics,Monitor,15000,1,12,15000,13200.0
+1008,Kiran,Home,Table,6500,1,10,6500,5850.0
+1009,Anjali,Fashion,Shoes,2500,2,18,5000,4100.0
+1010,Mehul,Books,SQL Book,850,1,5,850,807.5
