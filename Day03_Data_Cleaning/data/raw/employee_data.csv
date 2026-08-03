@@ -1,0 +1,16 @@
+Employee_ID,Name,Department,Age,Salary,Experience,City,Joining_Date,Performance
+101,Amit Patel,IT,25,45000,2,Surat,2022-01-15,Excellent
+102,Riya Shah,HR,28,52000,4,Ahmedabad,2021-05-10,Good
+103, Rahul Mehta ,Finance,31,60000,6,Surat,2020-08-12,Excellent
+104,Priya Patel,IT,,55000,5,Rajkot,2019-02-20,Good
+105,Arjun Desai,Sales,29,,3,Vadodara,2021-07-18,Average
+106,Neha Joshi,Finance,34,72000,8,Surat,2017-11-25,Excellent
+107,Karan Shah,IT,150,48000,2,Ahmedabad,2023-03-15,Good
+108,Meera Patel,HR,27,51000,4,Surat,2021-09-09,
+109,Amit Patel,IT,25,45000,2,Surat,2022-01-15,Excellent
+110,Rohan Kumar,Sales,-5,39000,1,Rajkot,2024-01-12,Poor
+111,Pooja Singh,Finance,30,68000,5, surat ,2020-06-18,Excellent
+112,Vikas Sharma,IT,29,500000,4,Ahmedabad,2022-04-22,Good
+113,Sneha Verma,HR,26,49000,3,Vadodara,2021-10-05,GOOD
+114,Ankit Jain,Finance,32,71000,7,SURAT,2018-12-11,excellent
+115,Kajal Patel,Sales,28,53000,4,Ahmedabad,2021-01-08,Average

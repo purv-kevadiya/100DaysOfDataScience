@@ -1,0 +1,53 @@
+DAY 03 - DATA CLEANING SUMMARY REPORT
+======================================================================
+
+Generated On : 03-08-2026 17:44:50
+
+DATASET OVERVIEW
+----------------------------------------------------------------------
+Rows    : 15
+Columns : 9
+
+COLUMN NAMES
+----------------------------------------------------------------------
+- Employee_ID
+- Name
+- Department
+- Age
+- Salary
+- Experience
+- City
+- Joining_Date
+- Performance
+
+DATA TYPES
+----------------------------------------------------------------------
+Employee_ID              int64
+Name                       str
+Department            category
+Age                    float64
+Salary                 float64
+Experience               int64
+City                  category
+Joining_Date    datetime64[us]
+Performance           category
+
+MISSING VALUES
+----------------------------------------------------------------------
+Employee_ID          : 0
+Name                 : 0
+Department           : 0
+Age                  : 0
+Salary               : 0
+Experience           : 0
+City                 : 0
+Joining_Date         : 0
+Performance          : 0
+
+DUPLICATE ROWS
+----------------------------------------------------------------------
+Duplicate Rows : 0
+
+MEMORY USAGE
+----------------------------------------------------------------------
+2.27 KB

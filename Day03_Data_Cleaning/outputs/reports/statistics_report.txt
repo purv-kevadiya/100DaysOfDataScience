@@ -1,0 +1,35 @@
+DAY 03 - DATASET STATISTICS REPORT
+======================================================================
+
+Generated On : 03-08-2026 17:44:50
+
+DESCRIPTIVE STATISTICS
+----------------------------------------------------------------------
+        Employee_ID        Name Department        Age         Salary  Experience   City         Joining_Date Performance
+count     15.000000          15         15  15.000000      15.000000   15.000000     15                   15          15
+unique          NaN          14          4        NaN            NaN         NaN      4                  NaN           4
+top             NaN  Amit Patel         It        NaN            NaN         NaN  Surat                  NaN   Excellent
+freq            NaN           2          5        NaN            NaN         NaN      7                  NaN           7
+mean     108.000000         NaN        NaN  28.633333   59685.714000    4.000000    NaN  2021-03-15 08:00:00         NaN
+min      101.000000         NaN        NaN  25.000000   39000.000000    1.000000    NaN  2017-11-25 00:00:00         NaN
+25%      104.500000         NaN        NaN  27.500000   48500.000000    2.500000    NaN  2020-07-15 12:00:00         NaN
+50%      108.000000         NaN        NaN  28.500000   53000.000000    4.000000    NaN  2021-07-18 00:00:00         NaN
+75%      111.500000         NaN        NaN  29.500000   69500.000000    5.000000    NaN  2022-01-15 00:00:00         NaN
+max      115.000000         NaN        NaN  34.000000  101000.000000    8.000000    NaN  2024-01-12 00:00:00         NaN
+std        4.472136         NaN        NaN   2.460159   17059.678683    1.963961    NaN                  NaN         NaN
+
+COLUMN DATA TYPES
+----------------------------------------------------------------------
+Employee_ID              int64
+Name                       str
+Department            category
+Age                    float64
+Salary                 float64
+Experience               int64
+City                  category
+Joining_Date    datetime64[us]
+Performance           category
+
+MEMORY USAGE
+----------------------------------------------------------------------
+2.78 KB
