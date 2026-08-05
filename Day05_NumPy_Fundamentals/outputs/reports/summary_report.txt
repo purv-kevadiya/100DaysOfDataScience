@@ -1,0 +1,13 @@
+DAY 05 - NUMPY SUMMARY REPORT
+============================================================
+
+Shape       : (5,)
+Dimensions  : 1
+Size        : 5
+Data Type   : int64
+Item Size   : 8 bytes
+Memory      : 40 bytes
+
+ARRAY DATA
+------------------------------------------------------------
+[10 20 30 40 50]
