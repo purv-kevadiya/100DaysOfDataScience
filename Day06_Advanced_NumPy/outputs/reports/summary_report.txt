@@ -1,0 +1,13 @@
+DAY 06 - ADVANCED NUMPY SUMMARY
+============================================================
+
+Topics Covered
+------------------------------------------------------------
+• Copy vs View
+• Broadcasting
+• Fancy Indexing
+• Boolean Masking
+• Matrix Operations
+• Linear Algebra
+• Vectorization
+• Performance Comparison

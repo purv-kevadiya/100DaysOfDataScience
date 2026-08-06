@@ -1,0 +1,11 @@
+ARRAY REPORT
+============================================================
+
+Shape      : (5,)
+Dimensions : 1
+Size       : 5
+Data Type  : int64
+Mean       : 30.0
+Minimum    : 10
+Maximum    : 50
+Std Dev    : 14.142135623730951
